@@ -1,5 +1,7 @@
 '''
 Utilities module for video operations and image conversions 
+
+@author: Sunil Mallya
 '''
 
 import cv2

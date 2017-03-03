@@ -14,5 +14,9 @@ Tag frames every "x" seconds
 Generate a word cloud based on the video similar to  
 ![alt tag](https://raw.githubusercontent.com/awslabs/rekognition-video-utils/master/video_tags.png)
 
+# How to run
+```
+python rekognition_video.py 
+```
 ## License
 This code sample and utilies are licensed under the Amazon Software License.
