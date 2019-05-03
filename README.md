@@ -20,4 +20,4 @@ Generate a word cloud based on the video similar to
 ![alt tag](https://raw.githubusercontent.com/awslabs/rekognition-video-utils/master/video_tags.png)
 
 ## License
-This code sample and utilies are licensed under the Amazon Software License.
+This code sample and utilies are licensed under the MIT-0 License.
